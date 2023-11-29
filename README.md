@@ -16,11 +16,10 @@
 
 ![:stable-diffusion-webui-lora-zip](https://count.getloli.com/get/@:stable-diffusion-webui-lora-zip)
 
-Try interpolating on the hidden vectors of conditioning prompt to make seemingly-continuous image sequence, or let's say a pseudo-animation. 😀  
-Not only prompts! We also support non-prompt conditions, read => [README_ext.md](README_ext.md) ~  
-
 ⚠ 我们成立了插件反馈 QQ 群: 616795645 (赤狐屿)，欢迎出建议、意见、报告bug等 (w  
 ⚠ We have a QQ chat group (616795645) now, any suggestions, discussions and bug reports are highly wellllcome!!  
+
+**NOTE: Lora-Zip is NOT the ZipLora: [https://ziplora.github.io/](https://ziplora.github.io/)**, their method is actually more reasonable, and mine is a chaotic toy :(
 
 
 ### Change Log
